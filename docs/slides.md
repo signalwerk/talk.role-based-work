@@ -12,38 +12,13 @@ background: true
 
 # {{process.content.frontmatter.title}}
 
-_Why not a sub title?_
+_Was bedeutet es, wenn wir nicht mehr über Funktionen, sondern über Rollen sprechen?_
 
 <footer>
 
 2026 · Zurich · Stefan Huber
 
 </footer>
-
---s--
-
-## Rollen und Hierarchien
-
-![alt text](img/organigramm_der_richard_woehr_gmbh_2017.png)
-
---s--
-
-## Kreisorganisation
-
-![alt text](img/Kreisorganisation.jpg)
-
-<footer>
-
-Quelle: [TAO-Team](https://www.tao.co.at/test/79-interview-mit-barbara-strauch-zum-thema-soziokratie.html)
-
-</footer>
-
---s--
-
-## Konsentprinzip
-
-- **Konsen**·_s_·**prinzip** – ohne Gegenstimme
-- **Konsen**·_t_·**prinzip** – keine schwerwiegenden Einwände
 
 --s--
 
@@ -54,6 +29,117 @@ Quelle: [TAO-Team](https://www.tao.co.at/test/79-interview-mit-barbara-strauch-z
 - Ergebnis: **mehr Klarheit**, nicht mehr Kontrolle
 - Rollen definieren **Verantwortlichkeiten und Autonomie**
 - Rollen sind **dynamisch** und **anpassbar**
+
+--s--
+
+```fm
+style: negative
+background: true
+```
+
+## Funktionen und Rollen
+
+# Rollen und Hierarchien sind einwenig ein Wiederspruch
+
+--s--
+
+## Funktionen und Hierarchien
+
+<div style="position: relative;">
+
+![alt text](img/organigramm_der_richard_woehr_gmbh_2017.png)
+
+<div style="position: absolute; top: 46%; left: 17.1%; width: 8.1%; height: 8.6%; background: #f00; mix-blend-mode: multiply;"></div>
+
+</div>
+
+--s--
+
+## Rollen und Kreisorganisation
+
+<div style="position: relative;">
+
+![alt text](img/Kreisorganisation.jpg)
+
+<div style="position: absolute; top: 59%; left: 2.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+<div style="position: absolute; top: 18%; left: 4.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+<div style="position: absolute; top: 81%; left: 31.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+</div>
+
+<footer>
+
+Quelle: [TAO-Team](https://www.tao.co.at/test/79-interview-mit-barbara-strauch-zum-thema-soziokratie.html)
+
+</footer>
+
+--s--
+
+## Flexibilität vs. Stabilität
+
+<section class="slide">
+  <div class="grid">
+    <div class="col6">
+      <h3>Position</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Planbar &amp; stabil (fixe Stelle, klare Besetzung)</li>
+        <li><strong>Nachteil:</strong> Schwerfällig bei Änderungen (Reorg/Jobprofil nötig)</li>
+      </ul>
+    </div>
+    <div class="col6">
+      <h3>Rolle</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Schnell anpassbar (entsteht aus Bedarf, kann enden)</li>
+        <li><strong>Nachteil:</strong> Kann verwirren ohne gutes Rollen-Setup (zu oft ändern)</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+--s--
+
+## Klarer Outcome – mehr Abstimmung
+
+<section class="slide">
+  <div class="grid">
+    <div class="col6">
+      <h3>Position</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Einfache Zuordnung (X ist zuständig)</li>
+        <li><strong>Nachteil:</strong> Zuständigkeit ≠ Ergebnis (viel «beschäftigt» statt «wirksam»)</li>
+      </ul>
+    </div>
+    <div class="col6">
+      <h3>Rolle</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Outcome-fokussiert (klarer Auftrag, Deliverables)</li>
+        <li><strong>Nachteil:</strong> Mehr Schnittstellen/Abstimmung (Rollen müssen sauber greifen)</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+--s--
+
+## Mehrere Rollen pro Person
+
+<section class="slide">
+  <div class="grid">
+    <div class="col6">
+      <h3>Position</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Karriere &amp; Gehalt oft klar an Stelle/Level gekoppelt</li>
+        <li><strong>Nachteil:</strong> Neue Bedarfe brauchen oft neue Stellen (Overhead, Wartezeit)</li>
+      </ul>
+    </div>
+    <div class="col6">
+      <h3>Rolle</h3>
+      <ul>
+        <li><strong>Vorteil:</strong> Skills flexibel nutzbar (1 Person kann mehrere Beiträge leisten)</li>
+        <li><strong>Nachteil:</strong> Vergütung/Entwicklung braucht Kriterien (Impact, Verantwortung, Zeitanteil)</li>
+      </ul>
+    </div>
+  </div>
+</section>
 
 --s--
 
@@ -123,6 +209,28 @@ Beispiel [Digital Lead](https://www.notion.so/projecttogether/Rollenbeschreibung
 
 --s--
 
+
+```fm
+style: negative
+background: true
+```
+
+## Rollen klären auch die Zusammenarbeit
+
+
+# Eine Rolle braucht *Entscheidungsfreiheit* und muss mit **Leben** gefüllt werden
+
+
+
+--s--
+
+## Konsentprinzip
+
+- **Konsen**·_s_·**prinzip** – ohne Gegenstimme
+- **Konsen**·_t_·**prinzip** – keine schwerwiegenden Einwände
+
+--s--
+
 ```fm
 style: negative
 background: true
@@ -131,261 +239,3 @@ background: true
 ## Danke
 
 # Fragen?
-
---s--
-
---s--
-
-```fm
-style: image
-background:
-  image: https://portrait.signalwerk.ch/illustration/2020/rgb/w4000/stefan-huber.jpg
-  position: 50% 40%
-```
-
-## Stefan
-
-<div class="box box--w40p box--bottom box--white box--padding small">
-
-- Developer
-- ❦ Typography
-
-</div>
-
-<footer class="footer--right">
-
-Illustration by [Benjamin Güdel](http://www.guedel.biz/) · 2020
-
-</footer>
-
---s--
-
-## Slide Title _emphasis_ and **strong**
-
-# Slide Title _emphasis_ and **strong**
-
-### H3 Subtitle
-
-- Text [Link](https://github.com)
-- Text _emphasis_ and **strong**
-
-<footer>
-
-Footer: Text [Link](https://github.com) with _emphasis_ and **strong**
-
-</footer>
-
---s--
-
-```fm
-style: negative
-background: true
-```
-
-## Slide Title _emphasis_ and **strong**
-
-# Slide Title _emphasis_ and **strong**
-
-### H3 Subtitle
-
-- Text [Link](https://github.com)
-- Text _emphasis_ and **strong**
-
-<footer>
-
-Footer: Text [Link](https://github.com) with _emphasis_ and **strong**
-
-</footer>
-
---s--
-
-## Big Picture
-
-<div class="box box--w50p box--img-cover box--right">
-
-![alt text](https://portrait.signalwerk.ch/illustration/2020/rgb/w4000/stefan-huber.jpg)
-
-</div>
-
---s--
-
-## Image with caption
-
-<figure>
-
-![alt text](https://portrait.signalwerk.ch/illustration/2020/rgb/w4000/stefan-huber.jpg)
-
-<figcaption>hello</figcaption>
-</figure>
-
---s--
-
-## Image by height (default)
-
-![alt text](https://portrait.signalwerk.ch/illustration/2020/rgb/w4000/stefan-huber.jpg)
-
---s--
-
-## Image by width
-
-<div class="box--w80p img--w100p">
-
-<figure class="img--pixelate">
-
-![](https://interaction.signalwerk.ch/static/10d37901c8fc48a669e8ba7775138082/b6a9b/Microsoft_BW_Arial_a_waterfall.png)
-
-<figcaption>
-
-80 % width · pixelated rendering
-
-</figcaption>
-</figure>
-
-</div>
-
----
-
-<div class="box--w60p img--w100p">
-
-<figure class="img--pixelate">
-
-![](https://interaction.signalwerk.ch/static/10d37901c8fc48a669e8ba7775138082/b6a9b/Microsoft_BW_Arial_a_waterfall.png)
-
-<figcaption>
-
-60 % width · pixelated rendering
-
-</figcaption>
-</figure>
-
-</div>
-
---s--
-
-## Grid
-
-<div class="grid">
-<div class="col8 img--w100p">
-
-8 Column
-
-</div>
-<div class="col4">
-
-4 Column
-
-</div>
-</div>
-
---s--
-
-## Video
-
-<video controls>
-  <source src="/img-curve/bezier-by-adobe.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
---s--
-
-## Table
-
-| Syntax    | Description |   Test Text |
-| :-------- | :---------: | ----------: |
-| Header    |    Title    | Here's this |
-| Paragraph |    Text     |    And more |
-
---s--
-
-## iFrame
-
-<div class="box--w80p box--ratio-16-9">
-<iframe
-  className="iframe--fill"
-  src="https://player.vimeo.com/video/213887934?title=0&byline=0&portrait=0vz#t=0m25s">
-</iframe>
-</div>
-
---s--
-
-```fm
-style: image
-background:
-  iframe: https://signalwerk.github.io/visual.spiral-3d.typo/
-```
-
-## iFrame as background
-
---s--
-
-## Code
-
-```html
-<html lang="en">
-  <head>
-    <title>title</title>
-  </head>
-  <body>
-    <!-- page content -->
-  </body>
-</html>
-```
-
---s--
-
-## Print
-
-- Add [`?print`](./?print) to the URL to get a printable version
-- The utility class `.noPrint` hides elements in print
-
-<div class="noPrint">
-
-- This is not visible in print
-
-</div>
-
---s--
-
-## Modules
-
-### Random Selection & Timer Countdown
-
-<random-selection data-set="oblique-strategies"></random-selection>
-
-<div style="position: absolute; top: .3em; right: 0;">
-<timer-countdown time="00:01:00"></timer-countdown>
-</div>
-
---s--
-
-```fm
-style: negative
-background: true
-```
-
-## exit 0; thx
-
-# _Questions?_
-
-<style>
-  .contact-links {
-    padding-bottom: 1rem;
-    font-size: .8rem;
-  }
-  .contact-links a {
-    color: white;
-  }
-  .contact-links a:after {
-    display: none;
-  }
-</style>
-
-<footer class="contact-links">
-
-**Stefan Huber** · sh@signalwerk.ch  
-[mastodon.social/@signalwerk](https://mastodon.social/@signalwerk)  
-[instagram.com/signalwerk](https://instagram.com/signalwerk)  
-[linkedin.com/in/signalwerk](https://linkedin.com/in/signalwerk)  
-[github.com/signalwerk](https://github.com/signalwerk)
-
-</footer>
