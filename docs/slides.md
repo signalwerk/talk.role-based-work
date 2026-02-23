@@ -53,6 +53,14 @@ background: true
 
 </div>
 
+
+<footer>
+
+Quelle: [Richard Wöhr GmbH](https://www.industriegehaeuse.de/fileadmin/pdfs/organigramm_der_richard_woehr_gmbh_2017.pdf)
+
+</footer>
+
+
 --s--
 
 ## Rollen und Kreisorganisation
@@ -68,7 +76,7 @@ background: true
 
 <footer>
 
-Quelle: [TAO-Team](https://www.tao.co.at/test/79-interview-mit-barbara-strauch-zum-thema-soziokratie.html)
+Quelle: [Verband deutschsprachiger Soziokratie Zentren](https://soziokratiezentrum.org/ueber-soziokratie/grundlagen-der-soziokratie-4-basisprinzipien/kreisstruktur/)
 
 </footer>
 
