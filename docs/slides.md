@@ -67,11 +67,15 @@ Quelle: [Richard Wöhr GmbH](https://www.industriegehaeuse.de/fileadmin/pdfs/org
 
 <div style="position: relative;">
 
-![alt text](img/Kreisorganisation.jpg)
+<!-- ![alt text](img/circle-diagram.svg) -->
 
-<div style="position: absolute; top: 59%; left: 2.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
-<div style="position: absolute; top: 18%; left: 4.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
-<div style="position: absolute; top: 81%; left: 31.1%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+<object style="display: block; height: 13rem; width: auto;" data="img/circle-diagram.svg" type="image/svg+xml"></object>
+
+
+
+<div style="position: absolute; top: 56.4%; left: 8.5%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+<div style="position: absolute; top: 14.4%; left: 9.5%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
+<div style="position: absolute; top: 83.1%; left: 32.2%; width: 3.2%; height: auto; aspect-ratio: 1 / 1; background: #f00; mix-blend-mode: multiply; border-radius: 50%"></div>
 </div>
 
 <footer>

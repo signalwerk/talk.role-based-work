@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<defs>
+    <style type="text/css">
+@font-face {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("https://fonts.signalwerk.ch/assets/fonts/worksans/latest/WorkSans[wght@100..900][subset@latin].woff2")
+    format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+.circle { fill: none; stroke: black; stroke-width: 2; }
+.node { fill: white; stroke: black; stroke-width: 2; }
+.text { font-family: 'Work Sans', sans-serif; font-size: 18px; fill: black; }
+.title { font-family: 'Work Sans', sans-serif; font-size: 22px; fill: black; }
+    </style>
+</defs>
+<circle class="circle" cx="500" cy="500" r="200" />
+<circle class="circle" cx="298.14728923814926" cy="330.6254648475969" r="110.00000000000001" />
+<circle class="circle" cx="155.8425689278852" cy="355.71762652046834" r="60" />
+<circle class="circle" cx="298.14728923814926" cy="186.1254648475969" r="60" />
+<circle class="circle" cx="298.1472892381493" cy="669.3745351524032" r="110.00000000000001" />
+<circle class="circle" cx="701.8527107618507" cy="669.374535152403" r="110.00000000000001" />
+<circle class="circle" cx="844.1574310721148" cy="644.2823734795314" r="60" />
+<circle class="circle" cx="701.8527107618507" cy="813.874535152403" r="60" />
+<circle cx="500" cy="700" r="8" class="node"/>
+<circle cx="300" cy="499.99999999999994" r="8" class="node"/>
+<circle cx="521.8832721205974" cy="301.2007987911021" r="8" class="node"/>
+<circle cx="628.5575219373077" cy="346.7911113762043" r="8" class="node"/>
+<circle cx="691.9790043180253" cy="443.928064942793" r="8" class="node"/>
+<circle cx="250.1111343867346" cy="429.582666844677" r="8" class="node"/>
+<circle cx="213.88240049506163" cy="259.9188277820776" r="8" class="node"/>
+<circle cx="387.2597182291943" cy="266.13534933121747" r="8" class="node"/>
+<circle cx="157.24080619733363" cy="415.7013320790476" r="8" class="node"/>
+<circle cx="107.99497519075099" cy="391.91994376075223" r="8" class="node"/>
+<circle cx="98.49861643949492" cy="338.0634170221861" r="8" class="node"/>
+<circle cx="136.64084659974378" cy="298.87315572837673" r="8" class="node"/>
+<circle cx="238.83206959587326" cy="177.08639859114336" r="8" class="node"/>
+<circle cx="270.80361400111116" cy="132.7183171561934" r="8" class="node"/>
+<circle cx="325.4909644751874" cy="132.7183171561934" r="8" class="node"/>
+<circle cx="357.4625088804252" cy="177.08639859114334" r="8" class="node"/>
+<circle cx="355.5517130545567" cy="763.2080692769701" r="8" class="node"/>
+<circle cx="255.43622187541132" cy="770.7439818547289" r="8" class="node"/>
+<circle cx="190.90117319339217" cy="693.8341057396904" r="8" class="node"/>
+<circle cx="215.7074709254794" cy="596.5481913160277" r="8" class="node"/>
+<circle cx="786.1175995049384" cy="740.0811722179222" r="8" class="node"/>
+<circle cx="612.7402817708057" cy="733.8646506687825" r="8" class="node"/>
+<circle cx="749.8888656132652" cy="570.4173331553229" r="8" class="node"/>
+<circle cx="842.7591938026662" cy="584.2986679209522" r="8" class="node"/>
+<circle cx="892.005024809249" cy="608.0800562392475" r="8" class="node"/>
+<circle cx="901.5013835605051" cy="661.9365829778136" r="8" class="node"/>
+<circle cx="863.3591534002562" cy="701.126844271623" r="8" class="node"/>
+<circle cx="761.1679304041268" cy="822.9136014088566" r="8" class="node"/>
+<circle cx="729.1963859988889" cy="867.2816828438066" r="8" class="node"/>
+<circle cx="674.5090355248126" cy="867.2816828438065" r="8" class="node"/>
+<circle cx="642.5374911195747" cy="822.9136014088566" r="8" class="node"/>
+<circle cx="407.8464653293344" cy="322.49584216784547" r="8" class="node"/>
+<path d="M 399.8464653293344 322.49584216784547 A 8 8 0 0 1 415.8464653293344 322.49584216784547 Z" fill="black"/>
+<circle cx="309.19023581386415" cy="440.06975812470614" r="8" class="node"/>
+<path d="M 301.19023581386415 440.06975812470614 A 8 8 0 0 0 317.19023581386415 440.06975812470614 Z" fill="black"/>
+<circle cx="190.73494119710813" cy="306.9065380525191" r="8" class="node"/>
+<path d="M 182.73494119710813 306.9065380525191 A 8 8 0 0 1 198.73494119710813 306.9065380525191 Z" fill="black"/>
+<circle cx="205.3250491446787" cy="389.6511520018361" r="8" class="node"/>
+<path d="M 197.3250491446787 389.6511520018361 A 8 8 0 0 0 213.3250491446787 389.6511520018361 Z" fill="black"/>
+<circle cx="340.15783073532367" cy="228.96370014171453" r="8" class="node"/>
+<path d="M 332.15783073532367 228.96370014171453 A 8 8 0 0 1 348.15783073532367 228.96370014171453 Z" fill="black"/>
+<circle cx="256.13674774097484" cy="228.96370014171453" r="8" class="node"/>
+<path d="M 248.13674774097484 228.96370014171453 A 8 8 0 0 0 264.13674774097484 228.96370014171453 Z" fill="black"/>
+<circle cx="309.1902358138641" cy="559.9302418752937" r="8" class="node"/>
+<path d="M 301.1902358138641 559.9302418752937 A 8 8 0 0 1 317.1902358138641 559.9302418752937 Z" fill="black"/>
+<circle cx="407.8464653293346" cy="677.5041578321546" r="8" class="node"/>
+<path d="M 399.8464653293346 677.5041578321546 A 8 8 0 0 0 415.8464653293346 677.5041578321546 Z" fill="black"/>
+<circle cx="592.1535346706655" cy="677.5041578321546" r="8" class="node"/>
+<path d="M 584.1535346706655 677.5041578321546 A 8 8 0 0 1 600.1535346706655 677.5041578321546 Z" fill="black"/>
+<circle cx="690.8097641861359" cy="559.9302418752937" r="8" class="node"/>
+<path d="M 682.8097641861359 559.9302418752937 A 8 8 0 0 0 698.8097641861359 559.9302418752937 Z" fill="black"/>
+<circle cx="809.2650588028919" cy="693.0934619474806" r="8" class="node"/>
+<path d="M 801.2650588028919 693.0934619474806 A 8 8 0 0 1 817.2650588028919 693.0934619474806 Z" fill="black"/>
+<circle cx="794.6749508553212" cy="610.3488479981638" r="8" class="node"/>
+<path d="M 786.6749508553212 610.3488479981638 A 8 8 0 0 0 802.6749508553212 610.3488479981638 Z" fill="black"/>
+<circle cx="659.8421692646763" cy="771.0362998582854" r="8" class="node"/>
+<path d="M 651.8421692646763 771.0362998582854 A 8 8 0 0 1 667.8421692646763 771.0362998582854 Z" fill="black"/>
+<circle cx="743.8632522590252" cy="771.0362998582854" r="8" class="node"/>
+<path d="M 735.8632522590252 771.0362998582854 A 8 8 0 0 0 751.8632522590252 771.0362998582854 Z" fill="black"/>
+<text class="text" x="500" y="506" text-anchor="middle">Allgemeiner Kreis</text>
+<text class="text" x="298.14728923814926" y="336.6254648475969" text-anchor="middle">Abteilungskreis</text>
+<text class="text" x="155.8425689278852" y="361.71762652046834" text-anchor="middle">Team</text>
+<text class="text" x="298.14728923814926" y="192.1254648475969" text-anchor="middle">Team</text>
+<text class="text" x="298.1472892381493" y="675.3745351524032" text-anchor="middle">Abteilungskreis</text>
+<text class="text" x="701.8527107618507" y="675.374535152403" text-anchor="middle">Abteilungskreis</text>
+<text class="text" x="844.1574310721148" y="650.2823734795314" text-anchor="middle">Team</text>
+<text class="text" x="701.8527107618507" y="819.874535152403" text-anchor="middle">Team</text>
+<circle cx="780" cy="150" r="8" class="node"/>
+<path d="M 772 150 A 8 8 0 0 1 788 150 Z" fill="black"/>
+<text class="text" x="800" y="156">= Leiter</text>
+<circle cx="780" cy="190" r="8" class="node"/>
+<path d="M 772 190 A 8 8 0 0 0 788 190 Z" fill="black"/>
+<text class="text" x="800" y="196">= Delegierter</text>
+<circle cx="780" cy="230" r="8" class="node"/>
+<text class="text" x="800" y="236">= Rolle</text>
+</svg>
